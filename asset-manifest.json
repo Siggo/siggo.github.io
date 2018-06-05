@@ -1,7 +1,9 @@
 {
-  "main.css": "static/css/main.c399e7c6.css",
-  "main.css.map": "static/css/main.c399e7c6.css.map",
-  "main.js": "static/js/main.5f84d131.js",
-  "main.js.map": "static/js/main.5f84d131.js.map",
+  "main.css": "static/css/main.92a68767.css",
+  "main.css.map": "static/css/main.92a68767.css.map",
+  "main.js": "static/js/main.c42ec8c4.js",
+  "main.js.map": "static/js/main.c42ec8c4.js.map",
+  "static\\media\\AvenirLTStd-Book.otf": "static/media/AvenirLTStd-Book.ecb0c2ae.otf",
+  "static\\media\\AvenirLTStd-Medium.otf": "static/media/AvenirLTStd-Medium.4f995fa4.otf",
   "static\\media\\art.png": "static/media/art.8077a593.png"
 }
